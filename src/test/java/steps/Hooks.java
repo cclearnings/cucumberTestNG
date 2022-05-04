@@ -14,7 +14,7 @@ public class Hooks {
         System.out.println("Scenario Started: " + scenario.getName());
         Browser.startDriver();
         Browser browser =  new Browser();
-    //    browser.login();
+        browser.login();
         System.out.println("Logged in Successfully");
     }
 
