@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/automation/PMOaaSJava/cucumberTestNG">
         <classes>
-            <class name="org.automation.core.Runner" />
+            <class name="automation.core.Runner" />
         </classes>
     </test>
 </suite>

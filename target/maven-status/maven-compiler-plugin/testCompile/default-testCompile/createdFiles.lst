@@ -1,8 +1,0 @@
-org\automation\core\Browser.class
-org\automation\core\Runner.class
-steps\RiskSteps.class
-steps\SampleTest.class
-org\automation\pages\HubStandard.class
-org\automation\pages\RiskAndIssueSubmission.class
-steps\Hooks.class
-org\automation\core\Config.class

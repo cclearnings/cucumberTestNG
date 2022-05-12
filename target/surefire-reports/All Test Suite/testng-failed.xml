@@ -3,13 +3,13 @@
 <suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <test thread-count="5" name="D:/automation/PMOaaSJava/cucumberTestNG(failed)" verbose="0">
     <classes>
-      <class name="org.automation.core.Runner">
+      <class name="automation.core.Runner">
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
           <include name="runScenario" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.automation.core.Runner -->
+      </class> <!-- automation.core.Runner -->
     </classes>
   </test> <!-- D:/automation/PMOaaSJava/cucumberTestNG(failed) -->
 </suite> <!-- Failed suite [All Test Suite] -->
